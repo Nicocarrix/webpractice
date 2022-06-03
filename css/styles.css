@@ -118,7 +118,7 @@ body{
     display: flex;
     width: 100%;
     height: 100vh;
-    background: linear-gradient(100deg, rgba(0, 0, 0, 0.65), rgba(0, 0, 0, 0.65)), url("/webpractice/img/interior.jpg");
+    background: linear-gradient(100deg, rgba(0, 0, 0, 0.65), rgba(0, 0, 0, 0.65)), url("../img/interior.jpg");
     background-position: center;
     background-size: cover;
     
@@ -232,7 +232,7 @@ body{
 .work__section-1{
     margin-right: 30px;
     margin-left: 30px;
-    background: url("/webpractice/img/work1_real.jpg");
+    background: url("../img/work1_real.jpg");
     background-position: center;
     background-size: cover;
 
@@ -240,14 +240,14 @@ body{
 
 .work__section-2{
     margin-right: 30px;
-    background: url("/webpractice/img/work2_real.jpg");
+    background: url("../img/work2_real.jpg");
     background-position: center;
     background-size: cover;
     
 }
 .work__section-3{
     margin-right: 30px;
-    background: url("/webpractice/img/work3_real.jpg");
+    background: url("../img/work3_real.jpg");
     background-position: center;
     background-size: cover;
     
@@ -272,7 +272,7 @@ body{
     display: flex;
     flex-direction: column;
     align-items: center;
-    background: linear-gradient(rgba(0, 0, 0, 0.55),rgba(0, 0, 0, 0.55)), url("/webpractice/img/footer.jpg");
+    background: linear-gradient(rgba(0, 0, 0, 0.55),rgba(0, 0, 0, 0.55)), url("../img/footer.jpg");
     background-position: center;
     background-size: cover;
     width: 100%;
